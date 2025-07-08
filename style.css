@@ -1,0 +1,21 @@
+section {
+  height: 100vh;
+}
+
+header h2 {
+  margin-top: auto;
+}
+
+footer {
+  text-align: center;
+}
+
+footer img {
+  width: 1.25%;
+}
+
+/*ID's*/
+#btn {
+  background-color: #367588;
+}
+
